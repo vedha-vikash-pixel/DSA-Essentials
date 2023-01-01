@@ -89,6 +89,6 @@ Read our [code of conduct](/CODE_OF_CONDUCT.md).
 
 ## License
 
-[MIT License](/LICENSE).
+[MIT License](/LICENSE)
 
 ## **Show some love by leaving a :star2:**
